@@ -28,7 +28,7 @@
 ---
 
 ### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/aswin05))  
+- [LinkedIn](https://www.linkedin.com/in/aswin05) 
 - Email: `aswinvijay325@gmail.com`
 
 ---
