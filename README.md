@@ -1,8 +1,47 @@
-## Hi there 👋
- 
+# 👋 Hey there, I'm Aswin!
 
-- 🌱 I’m currently into DSA
-- 👯 I’m looking to collaborate on full stack projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aswin05/)
-- 😄 Pronouns: sudo
-- 😂 Fun fact : I know how to play minesweeper
+> Full Stack Developer • Java & Spring Boot • DSA
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Java, PHP, JavaScript, SQL
+- **Backend:** Spring Boot, Laravel
+- **Frontend:** React, Bootstrap, Tailwind
+- **Database:** MySQL
+- **Tools:** Git, Postman, VSCode, Linux, IntelliJ IDEA
+
+---
+
+### 🌱 Currently Growing
+- Grinding LeetCode one problem at a time
+- Diving deeper into system architecture & OS internals
+- Exploring LLMs and AI under the hood
+
+---
+
+### 👯 Looking to Collaborate On
+- Full stack projects (React + Spring Boot combo)
+- Developer tools / dashboards
+- Anything that makes me write clean, elegant code and roast bugs
+
+---
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/aswin05))  
+- Email: `aswinvijay325@gmail.com`
+
+---
+
+### 😄 Pronouns
+`sudo` / `root`
+
+---
+
+### 😂 Fun Fact
+I know how to play **Minesweeper**.
+
+---
+
+> *“Code like it’s your last deploy — debug like it’s your enemy’s app.”*
+
