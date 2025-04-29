@@ -33,5 +33,5 @@
 
 ---
 
-> *“Code like it’s your last deploy — debug like it’s your enemy’s app.”*
+> *“Code like it’s your last deploy, debug like it’s your enemy’s app.”*
 
