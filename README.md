@@ -33,15 +33,5 @@
 
 ---
 
-### 😄 Pronouns
-`sudo` / `root`
-
----
-
-### 😂 Fun Fact
-I know how to play **Minesweeper**.
-
----
-
 > *“Code like it’s your last deploy — debug like it’s your enemy’s app.”*
 
