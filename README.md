@@ -5,11 +5,11 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** PHP, JavaScript, SQL
-**Backend:** Laravel, REST APIs, Queue Jobs & Caching
-**Frontend:** React, Bootstrap, Tailwind CSS
-**Database:** MySQL
-**Tools:** Git, Postman, Linux, cPanel, VSCode
+- **Languages:** PHP, JavaScript, SQL
+- **Backend:** Laravel, REST APIs, Queue Jobs & Caching
+- **Frontend:** React, Bootstrap, Tailwind CSS
+- **Database:** MySQL
+- **Tools:** Git, Postman, Linux, cPanel, VSCode
 
 ---
 
